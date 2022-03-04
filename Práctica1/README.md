@@ -1,4 +1,4 @@
-FrontEnd-Misión-Entrenamiento🚀
+# FrontEnd-Mision 🚀
 Prácticas de Intro a Frontend
 
 1. Requerimientos
