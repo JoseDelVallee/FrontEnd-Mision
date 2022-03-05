@@ -17,4 +17,4 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 ### 2) Buyer Persona
 
-![](image/Buyer Persona.png)
+![](Imágenes/Buyer_Persona.png)
