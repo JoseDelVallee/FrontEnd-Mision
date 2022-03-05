@@ -1,5 +1,5 @@
 # FrontEnd-Mision 🚀
-Prácticas FrontEnd-Mision 🚀
+Bienvenidos a mis Prácticas FrontEnd-Mision 🚀
 
 1. [Prácticas de Intro a Frontend](https://github.com/JoseDelVallee/FrontEnd-Mision/tree/main/Pr%C3%A1ctica1)
 2. Prácticas HTML
