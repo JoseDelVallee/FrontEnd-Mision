@@ -23,5 +23,9 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 ![](Imágenes/Público_Objetivo.jpg)
 
-### 3) [UX de Wireframe](https://github.com/JoseDelVallee/FrontEnd-Mision/blob/main/Pr%C3%A1ctica1/Wireframe%20UX%20Abogabot.pdf)
+### 4) [UX de Wireframe](https://github.com/JoseDelVallee/FrontEnd-Mision/blob/main/Pr%C3%A1ctica1/Wireframe%20UX%20Abogabot.pdf)
+
+
+
+### 5) [UI de Wireframe](https://github.com/JoseDelVallee/FrontEnd-Mision/blob/main/Pr%C3%A1ctica1/UI%20Abogabot.pdf)
 
