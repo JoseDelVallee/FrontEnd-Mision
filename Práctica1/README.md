@@ -15,6 +15,13 @@
 
 Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario
 
-### 2) Buyer Persona
+### 2) [Buyer Persona](https://github.com/JoseDelVallee/FrontEnd-Mision/blob/main/Pr%C3%A1ctica1/Buyer%20Persona.png)
 
 ![](Imágenes/Buyer_Persona.png)
+
+### 3) [Público Objetivo](https://github.com/JoseDelVallee/FrontEnd-Mision/blob/main/Pr%C3%A1ctica1/P%C3%BAblico%20Objetivo.pdf)
+
+![](Imágenes/Público_Objetivo.jpg)
+
+### 3) [UX de Wireframe](https://github.com/JoseDelVallee/FrontEnd-Mision/blob/main/Pr%C3%A1ctica1/Wireframe%20UX%20Abogabot.pdf)
+
