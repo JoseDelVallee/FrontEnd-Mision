@@ -6,6 +6,8 @@
 
 ## **Caso: Pastelería**🎂
 
+![](img/Pasteleria_html.png)
+
 Descripción:
 
 1. HTML [(code)](https://github.com/JoseDelVallee/FrontEnd-Mision/blob/main/Pr%C3%A1ctica2/Index.html)[(https://sweetcakee.netlify.app/)](https://sweetcakee.netlify.app/)
