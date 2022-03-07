@@ -2,7 +2,7 @@
 
 ### Prácticas HTML
 
-[Página web](https://sweetcakee.netlify.app/)
+# [Página web Pastelería](https://sweetcakee.netlify.app/)
 
 ## **Caso: Pastelería**🎂
 
