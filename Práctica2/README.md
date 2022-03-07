@@ -5,7 +5,7 @@
 Para la práctica de esta semana tendrán que maquetar en HTML el siguiente caso y generar su repositorio con el ejercicio.
 Recordemos que solamente se necesita maquetar como un prototipo, **no es necesario que tenga funcionalidad completa en la información**
 
-## **Caso: Pastelería**
+## **Caso: Pastelería**🎂
 
 Descripción:
 
