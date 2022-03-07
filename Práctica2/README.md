@@ -9,7 +9,7 @@ Recordemos que solamente se necesita maquetar como un prototipo, **no es necesar
 
 Descripción:
 
-1. HTML 
+1. HTML [(code)](https://github.com/JoseDelVallee/FrontEnd-Mision/blob/main/Pr%C3%A1ctica2/Index.html)[https://sweetcakee.netlify.app/]
 2. El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
 3. El cliente de la pastelería necesita ver los diferentes adornos con los que se puede decorar el pastel y los precios de cada uno.
 4. El cliente de la pastelería tendrá la posibilidad de combinar sabores dependiendo de sus preferencias.
