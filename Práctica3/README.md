@@ -4,7 +4,7 @@
 
 # [Página web Vacunación]()
 
-## **Caso: Vacunación**🎂
+## **Caso: Vacunación** 💉
 
 ![]()
 
