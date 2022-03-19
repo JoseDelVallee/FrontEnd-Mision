@@ -2,7 +2,7 @@
 
 ### Prácticas CSS
 
-# [Página web Vacunación]💉()
+# [Página web Vacunación]()💉
 
 ## **Caso: Vacunación** 💉
 
