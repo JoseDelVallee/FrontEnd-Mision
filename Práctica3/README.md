@@ -6,7 +6,7 @@
 
 ## **Caso: Vacunación** 💉
 
-![]()
+![](images/vacunacion.png)
 
 Descripción:
 Para esta práctica necesito que clonen la página que está en el siguiente enlace Link del diseño by Adhiari Subekti
