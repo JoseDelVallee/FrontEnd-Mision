@@ -6,7 +6,7 @@
 
 ## **Caso: Pastelería**🎂
 
-![](img/Pasteleria_html.png)
+![](img/Pasteler.png)
 
 Descripción:
 
