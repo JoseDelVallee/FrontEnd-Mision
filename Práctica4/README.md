@@ -6,6 +6,6 @@
 
 ## **Caso Pokedex**
 
-![](images/Pokeapi.png)
+![](images/pokeapi.png)
 ![](images/pokeapii.png)
 ![](images/pokeapiii.png)
