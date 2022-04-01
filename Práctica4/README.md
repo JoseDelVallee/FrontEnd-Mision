@@ -1,6 +1,6 @@
 # FrontEnd-Mision🚀
 
-### Práctica JV
+### Práctica JS
 
 # [Página web PokeApi](https://pokeapiii.netlify.app/)
 
