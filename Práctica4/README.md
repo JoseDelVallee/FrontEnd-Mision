@@ -6,5 +6,5 @@
 
 ## **Caso Pokedex**
 
-![](images/Pokeapi.jpg)
+![](images/pokeapi.png)
 
